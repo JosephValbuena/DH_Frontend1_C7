@@ -1,0 +1,72 @@
+* {
+    margin: 0;
+}
+
+header {
+    text-align: center;
+    background: #f1f1f1;
+}
+
+.imgBatman {
+    margin: 20px;
+}
+
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 700;
+    font-size: 35px;
+    color: rgba(0, 86, 119, 1);
+    background: #c4c4c4;
+    line-height: 60px;
+    margin-bottom: 80px;
+}
+
+main {
+    margin: 0 120px;
+}
+
+h2 {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 700;
+    font-size: 20px;
+    color: rgba(0, 86, 119, 1);
+    background: #c4c4c4;
+    line-height: 35px;
+}
+
+.sinPuntos {
+    list-style: none;
+}
+
+li {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 400;
+    margin: 10px 0;
+}
+
+.negrita {
+    font-weight: bold;
+    font-style: italic;
+}
+
+.aclaracion {
+    margin: 0 0 0 80px;
+}
+
+footer {
+    text-align: center;
+    background: rgba(0, 86, 119, 1);
+    margin-top: 80px;
+}
+
+.text {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 700;
+    font-size: 20px;
+    color: white;
+    line-height: 28px;
+}
+
+.text i {
+    margin: 0 10px;
+}
